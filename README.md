@@ -4,7 +4,9 @@ Simple Calculator using Java and JFrame.
 
 <br>
 
-## Note
+## Additional Context
+
+### Note
 
 - Two numbers can only be computed at a time
 - The first clicked operation will be executed per computation
