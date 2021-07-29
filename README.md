@@ -26,11 +26,6 @@ Simple Calculator using Java and JFrame.
 - JFrame
 - Any IDE, or compiler
 
-#### Suggested Online Compiler (Alternative)
-
-- <a href="https://www.onlinegdb.com">OnlineGDB</a>
-- <a href="https://www.jdoodle.com">JDoodle</a>
-
 #### Using Command Prompt (Alternative)
 
 - <a href="https://github.com/rynrsts/simple-calculator/blob/main/command-prompt.md">Compiling and Executing using Command Prompt</a>
